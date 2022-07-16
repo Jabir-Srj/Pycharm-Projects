@@ -4,3 +4,5 @@ Python Notes and Projects from [Python Complete Masterclass](https://www.udemy.c
 Looking forward to making proper projects, for now these are just notes. 
 
 This repo also behaves as my PyCharm IDE config.
+
+:slightly_smiling_face:
